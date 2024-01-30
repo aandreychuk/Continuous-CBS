@@ -65,7 +65,7 @@ If you want to control the parameters through the input config file, you need to
 ```
 ./AA-CCBS map.xml task.xml config.xml
 ```
-The output file will be placed in the same folder as input files and, by default, will be named as task-file plus `_log.xml`. For examlpe,
+The output file will be placed in the same folder as input files and, by default, will be named as map-file plus `_log.xml`. For examlpe,
 ```
-"initial_task_file_name.xml" -> "initial_task_file_name_log.xml"
+"initial_map_file_name.xml" -> "initial_map_file_name_log.xml"
 ```
